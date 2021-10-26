@@ -1,0 +1,53 @@
+img{
+	width:240px;
+	height:100%;
+	
+	
+}
+.bg-black{
+	background-color:black;
+}
+.font-div{
+   width:114px;
+}
+body{
+	background-color:pink;
+}
+.icon-div{
+	font-size:25px;
+	color:black;
+}
+.pro{
+	width:100%;
+}
+.logos{
+	border:1px solid blue;
+	margin-left:12px;
+	font-size:2rem;
+	
+
+}
+.head{
+	font-family:verdana;
+	font-size:1rem;
+}
+.logi{
+	border:1px solid blue;
+	background-color:pink;
+}
+.form{
+	width:280px;
+	border:none;
+	outline:none;
+     color:white;
+	
+}
+.contact-div{
+	margin-left:150px;
+}
+.btu{
+	margin-left:200px;
+}
+.work{
+	width:98.4%;
+}
